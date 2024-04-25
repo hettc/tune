@@ -1,0 +1,11 @@
+# You are expected to have the appropriate
+# version of pytorch for your hardware pre-installed
+
+transformers
+accelerate
+datasets
+bitsandbytes
+
+nvitop
+matplotlib
+tensorboard
